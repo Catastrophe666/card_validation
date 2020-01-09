@@ -7,4 +7,4 @@ just a simple program to validate:
 3. cvv
 4. expiry date
 
-# Feel free to add test cases in test_cardValidate.py
+# Feel free to add test cases in test_cardVerify.py if any better test case can be used
