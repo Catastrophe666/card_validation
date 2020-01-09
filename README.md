@@ -6,3 +6,5 @@ just a simple program to validate:
 2. name
 3. cvv
 4. expiry date
+
+# Feel free to add test cases in test_cardValidate.py
