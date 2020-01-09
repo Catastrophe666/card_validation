@@ -54,9 +54,10 @@ def checkCardValidity(name,card_number,cvv,exp_date):
     else:
         return True
     
-card_number=input("Enter the card number")
+'''card_number=input("Enter the card number")
 name=input("enter name")
 exp_date=input("enter exp. date in mm/yy format")
 cvv=input("enter cvv")
 res=checkCardValidity(name,card_number,cvv,exp_date)
 print(res)
+'''
